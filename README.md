@@ -1,4 +1,4 @@
-### ¡Hey! ¿Qué tal? 👋
+### ¡Hey! ¿Qué tal? ¿Todo cool nada incool? 👋
 
 :princess: Mi nombre es Andrea Monserrat Arredondo Rodriguez✨ 
 
