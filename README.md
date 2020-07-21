@@ -2,7 +2,7 @@
 
 ✨ Mi nombre es Andrea Monserrat Arredondo Rodriguez✨ 
 
-Yo elegí estudiar Actuaría y terminé enamorada de la programación :person_with_pouting_face:
+Yo elegí estudiar Actuaría y terminé enamorada de la programación :information_desk_person:
 
 La mayor parte del tiempo programo con Python, I :heart: :snake:.
 Pero también le sé a R, Javascript (leve) y SAS
