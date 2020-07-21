@@ -2,9 +2,6 @@
 
 ✨ Mi nombre es Andrea Monserrat Arredondo Rodriguez✨ 
 
-<!--
-**Andrea-Monserrat/Andrea-Monserrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Yo elegí estudiar Actuaría y terminé enamorada de la programación :person_with_pouting_face:
 
 La mayor parte del tiempo programo con Python, I :heart: :snake:.
@@ -24,3 +21,7 @@ Me gusta la ciencia y en general compartir conocimiento, por esto soy voluntaria
 
 
 -:email: \*andrea.monserrat.ar@gmail.com\*  & \*arredondo@dataloop.mx\* 📫
+
+
+<!--
+**Andrea-Monserrat/Andrea-Monserrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
