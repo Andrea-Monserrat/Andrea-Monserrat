@@ -2,7 +2,6 @@
 
 :princess: Mi nombre es Andrea Monserrat Arredondo Rodriguez✨ 
 ![Andrea](/Andrea.png)  
-Format: ![Andrea](width="200" height="141" align="right")
 
 
 
