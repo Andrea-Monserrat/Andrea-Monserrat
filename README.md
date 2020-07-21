@@ -1,6 +1,8 @@
 ### ¡Hey! ¿Qué tal? ¿Todo cool nada incool? 👋
 
 :princess: Mi nombre es Andrea Monserrat Arredondo Rodriguez✨ 
+![GitHub Logo](/Andrea.png)
+Format: ![Alt Text](https://github.com/Andrea-Monserrat/Andrea-Monserrat/)
 
 Yo elegí estudiar Actuaría :chart_with_upwards_trend: y terminé enamorada de la programación :information_desk_person: , igual me sigue gustando la primera ja
 
