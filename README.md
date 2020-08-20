@@ -1,16 +1,16 @@
 ### ¡Hey! ¿Qué tal? ¿Todo cool nada incool? 👋
 
 :princess: Mi nombre es Andrea Monserrat Arredondo Rodriguez✨ 
-![Andrea](/Andrea.png)  
+
 
 
 
 Yo elegí estudiar Actuaría :chart_with_upwards_trend: y terminé enamorada de la programación :information_desk_person: , igual me sigue gustando la primera ja
 
 La mayor parte del tiempo uso Python, I :heart: :snake:.
-Pero también le sé a R, Javascript (leve) y SAS
+Pero también le sé a R, Javascript (leve)
 
-- Me gusta decir que soy entusiasta de la Inteligencia Artificial :robot: lo que más impacto me genera son los posibles cambios en nuestra sociedad, me gusta leer del tema, estar actualizada y compartir puntos de vista.
+- Me gusta decir que soy entusiasta de la Inteligencia Artificial :robot: lo que más me genera curiosidad son los posibles cambios en nuestra sociedad gracias a ésta, me gusta leer del tema, estar actualizada y compartir puntos de vista.
 
 - :computer: Actualmente trabajo como Data scientist jr en [@DataloopMx](https://dataloop.mx/)
 
