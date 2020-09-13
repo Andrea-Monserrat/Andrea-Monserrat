@@ -1,4 +1,4 @@
-### ¡Hey! ¿Qué tal? ¿Todo cool nada incool? 👋
+### ¡Hey! ¿Todo cool nada incool? 👋👋
 
 :princess: Mi nombre es Andrea Monserrat Arredondo Rodriguez✨ 
 
@@ -10,17 +10,17 @@ Yo elegí estudiar Actuaría :chart_with_upwards_trend: y terminé enamorada de 
 La mayor parte del tiempo uso Python, I :heart: :snake:.
 Pero también le sé a R, Javascript (leve)
 
-- Me gusta decir que soy entusiasta de la Inteligencia Artificial :robot: lo que más me genera curiosidad son los posibles cambios en nuestra sociedad gracias a ésta, me gusta leer del tema, estar actualizada y compartir puntos de vista.
+- Me considero una entusiasta de la Inteligencia Artificial. :robot: Lo que más me genera curiosidad son los posibles cambios en nuestra forma de ver y hacer las cosas en el mundo gracias a ésta, me gusta leer del tema, estar actualizada y compartir puntos de vista.
 
 - :computer: Actualmente trabajo como Data scientist jr en [@DataloopMx](https://dataloop.mx/)
 
 
 - Me gusta la ciencia y en general compartir conocimiento, por esto soy voluntaria 🔭 en [Clubes de Ciencias Mx](https://www.clubesdeciencia.mx/)
 :dart: 
-- también colaboro 👯 con personas personas muy cool en [@QuarentineHUB](https://github.com/QuarantineHUB)
+- también colaboro 👯 con personas personas muy cool en [@QuarentineHUB](https://github.com/QuarantineHUB). Sigan las #Queryntalks todos los viernes a las 07:00p.m.
 
 
-- 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) y/o [@esteusermurio](https://twitter.com/esteusermurio)
+- 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) <- cuenta profesional y/o [@esteusermurio](https://twitter.com/esteusermurio) <- cuenta de relajo.
 - ⚡ Fun fact: Mi animal favorito son los gatos, tengo dos. :cat: :cat:
 - ⚡ Fun fact_2: Mi serie favorita es Mr Robot
 
