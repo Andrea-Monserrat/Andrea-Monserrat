@@ -8,7 +8,7 @@
 Yo elegí estudiar Actuaría :chart_with_upwards_trend: y terminé enamorada de la programación :information_desk_person: , igual me sigue gustando la primera ja
 
 La mayor parte del tiempo uso Python, I :heart: :snake:.
-Pero también le sé a R, Javascript (leve)
+Pero también le sé a R, Javascript (leve) & soy aprendiz de Julia
 
 - Me considero una entusiasta de la Inteligencia Artificial. :robot: Lo que más me genera curiosidad son los posibles cambios en nuestra forma de ver y hacer las cosas en el mundo gracias a ésta, me gusta leer del tema, estar actualizada y compartir puntos de vista.
 
