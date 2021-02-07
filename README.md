@@ -12,7 +12,6 @@ Pero también le sé a R, Javascript (leve) & soy aprendiz de Julia
 
 - Me considero una entusiasta de la Inteligencia Artificial. :robot: Lo que más me genera curiosidad son los posibles cambios en nuestra forma de ver y hacer las cosas en el mundo, me gusta leer del tema, estar actualizada y compartir puntos de vista.
 
-Les comparto mi CV en [español](https://docs.google.com/document/d/1xZuuhusRNEgmoLqS2xiairduwwxRU6KfcRnmpHKkefU/edit?usp=sharing)
 
 - :computer: Actualmente trabajo como Data scientist en [@DataloopMx](https://dataloop.mx/)
 
@@ -21,6 +20,7 @@ Les comparto mi CV en [español](https://docs.google.com/document/d/1xZuuhusRNEg
 :dart: 
 - también colaboro 👯 con personas personas muy cool en [@QuarentineHUB](https://github.com/QuarantineHUB). Sigan las #Queryntalks todos los viernes a las 07:00p.m.
 
+- Por último les comparto mi CV en [español](https://docs.google.com/document/d/1xZuuhusRNEgmoLqS2xiairduwwxRU6KfcRnmpHKkefU/edit?usp=sharing)
 
 - 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
 - ⚡ Fun fact: Mi animal favorito son los gatos, tengo dos. :cat: :cat:
