@@ -12,6 +12,8 @@ Pero también le sé a R, Javascript (leve) & soy aprendiz de Julia
 
 - Me considero una entusiasta de la Inteligencia Artificial. :robot: Lo que más me genera curiosidad son los posibles cambios en nuestra forma de ver y hacer las cosas en el mundo, me gusta leer del tema, estar actualizada y compartir puntos de vista.
 
+Les comparto mi CV en [español] (https://docs.google.com/document/d/1xZuuhusRNEgmoLqS2xiairduwwxRU6KfcRnmpHKkefU/edit?usp=sharing)
+
 - :computer: Actualmente trabajo como Data scientist en [@DataloopMx](https://dataloop.mx/)
 
 
@@ -20,7 +22,7 @@ Pero también le sé a R, Javascript (leve) & soy aprendiz de Julia
 - también colaboro 👯 con personas personas muy cool en [@QuarentineHUB](https://github.com/QuarantineHUB). Sigan las #Queryntalks todos los viernes a las 07:00p.m.
 
 
-- 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) <- cuenta profesional y/o [@esteusermurio](https://twitter.com/esteusermurio) <- cuenta de joven centenial.
+- 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
 - ⚡ Fun fact: Mi animal favorito son los gatos, tengo dos. :cat: :cat:
 - ⚡ Fun fact_2: Mi serie favorita es Mr Robot
 
@@ -28,7 +30,7 @@ Pero también le sé a R, Javascript (leve) & soy aprendiz de Julia
 - :black_nib: en ratos libres escribo sobre el impacto de las redes sociales y en general la red en la vida de una centennial (o sea yo) [Medium](https://medium.com/@andrea.monserrat.ar/con-tal-de-mantenerse-quieto-i-b1f078c9f61d?source=friends_link&sk=35cc9990e543d2c94b2eb0fdbfa830f0)
 
 
--:email: __andrea.monserrat.ar@gmail.com__  & __arredondo@dataloop.mx__ 📫
+-:email: __andrea.monserrat.ar@gmail.com__  📫
 
 
 <!--
