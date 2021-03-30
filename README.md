@@ -1,6 +1,6 @@
 ### ¡Hey! ¿Todo cool nada incool? 👋👋
 
-:princess: Mi nombre es Andrea Monserrat A. R.✨ 
+:princess: Mi nombre es Andrea Monserrat✨ 
 
 
 
@@ -13,14 +13,13 @@ Pero también le sé a R, & soy aprendiz de Julia
 - Me considero una entusiasta de la Inteligencia Artificial. :robot: Lo que más me genera curiosidad son los posibles cambios en nuestra forma de ver y hacer las cosas en el mundo, me gusta leer del tema, estar actualizada y compartir puntos de vista.
 
 
-- :computer: Actualmente trabajo como Data scientist en [@DataloopMx](https://dataloop.mx/)
-
-
+- :computer: Soy IBMer en México
 - Me gusta la ciencia y en general compartir conocimiento, por esto soy voluntaria 🔭 en [Clubes de Ciencias Mx](https://www.clubesdeciencia.mx/)
 :dart: 
 - también colaboro 👯 con personas personas muy cool en [@QuarentineHUB](https://github.com/QuarantineHUB). Sigan las #Queryntalks todos los viernes a las 07:00p.m.
 
 - Por último les comparto mi CV en [español](https://docs.google.com/document/d/1xZuuhusRNEgmoLqS2xiairduwwxRU6KfcRnmpHKkefU/edit?usp=sharing)
+- CV [English](https://drive.google.com/file/d/1QdKD15z0ZnIBP3xextMnQnsvEw8qTIOj/view?usp=sharing)
 
 - 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
 - ⚡ Fun fact: Mi animal favorito son los gatos, tengo dos. :cat: :cat:
@@ -32,6 +31,7 @@ Pero también le sé a R, & soy aprendiz de Julia
 
 
 -:email: __andrea.monserrat.ar@gmail.com__  📫
+-:email: __andrea.monserrat@ibm.com__  📫
 
 
 <!--
