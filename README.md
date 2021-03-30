@@ -19,8 +19,8 @@ Pero también le sé a R, & soy aprendiz de Julia
 - también colaboro 👯 con personas personas muy cool en [@QuarentineHUB](https://github.com/QuarantineHUB). Sigan las #Queryntalks todos los viernes a las 07:00p.m.
 
 - Por último les comparto mi CV:
-- [Español](https://docs.google.com/document/d/1xZuuhusRNEgmoLqS2xiairduwwxRU6KfcRnmpHKkefU/edit?usp=sharing)
-- [English](https://drive.google.com/file/d/1QdKD15z0ZnIBP3xextMnQnsvEw8qTIOj/view?usp=sharing)
+--   [Español](https://docs.google.com/document/d/1xZuuhusRNEgmoLqS2xiairduwwxRU6KfcRnmpHKkefU/edit?usp=sharing)
+--  [English](https://drive.google.com/file/d/1QdKD15z0ZnIBP3xextMnQnsvEw8qTIOj/view?usp=sharing)
 
 - 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
 - ⚡ Fun fact: Mi animal favorito son los gatos, tengo dos. :cat: :cat:
