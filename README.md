@@ -1,4 +1,4 @@
-### ¡Hey! ¿Todo cool nada incool? 👋👋
+### ¡Hey! ¿Todo cool? 👋👋
 
 :princess: Mi nombre es Andrea Monserrat✨ 
 
