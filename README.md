@@ -16,7 +16,6 @@ Pero también le sé a R, & soy aprendiz de Julia
 - :computer: Soy IBMer en México
 - Me gusta la ciencia y en general compartir conocimiento, por esto soy voluntaria 🔭 en [Clubes de Ciencias Mx](https://www.clubesdeciencia.mx/)
 :dart: 
-- también colaboro 👯 con personas personas muy cool en [@QuarentineHUB](https://github.com/QuarantineHUB). Sigan las #Queryntalks todos los viernes a las 07:00p.m.
 
 - Por último les comparto mi CV:
 --   [Español](https://docs.google.com/document/d/1xZuuhusRNEgmoLqS2xiairduwwxRU6KfcRnmpHKkefU/edit?usp=sharing)
@@ -25,7 +24,6 @@ Pero también le sé a R, & soy aprendiz de Julia
 - 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
 - ⚡ Fun fact: Mi animal favorito son los gatos, tengo dos. :cat: :cat:
 - ⚡ Fun fact_2: Mi serie favorita es Mr Robot
-- ⚡ Ya también soy parte de Clubhouse @AndreaMonserrat conectemos para generar rooms en español 😄
 
 
 - :black_nib: en ratos libres escribo sobre el impacto de las redes sociales y en general la red en la vida de una centennial (o sea yo) [Medium](https://medium.com/@andrea.monserrat.ar/con-tal-de-mantenerse-quieto-i-b1f078c9f61d?source=friends_link&sk=35cc9990e543d2c94b2eb0fdbfa830f0)
