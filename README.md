@@ -18,8 +18,9 @@ Pero también le sé a R, & soy aprendiz de Julia
 :dart: 
 
 - Por último les comparto mi CV:
---   [Español](https://drive.google.com/file/d/1xLx2Jka-k0lYNAdrBziwR_tCRnZ0lLj3/view?usp=sharing)
+--   [English](https://drive.google.com/file/d/1xLx2Jka-k0lYNAdrBziwR_tCRnZ0lLj3/view?usp=sharing)
 --  [English](https://drive.google.com/file/d/1QdKD15z0ZnIBP3xextMnQnsvEw8qTIOj/view?usp=sharing)
+--  [Español](https://drive.google.com/file/d/1GxbXZBlrjMmPT4y3hzX4EBjL-ExLjIuH/view?usp=sharing)
 
 - 😄 Mi red social favorita es Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
 - ⚡ Fun fact: Mi animal favorito son los gatos, tengo dos. :cat: :cat:
