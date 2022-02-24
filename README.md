@@ -13,7 +13,7 @@ Pero también le sé a R, & soy aprendiz de Julia
 - Me considero una entusiasta de la Inteligencia Artificial. :robot: Lo que más me genera curiosidad son los posibles cambios en nuestra forma de ver y hacer las cosas en el mundo, me gusta leer del tema, estar actualizada y compartir puntos de vista.
 
 
-- :computer: Soy IBMer en México
+- :computer: IBMer and Data Scientist
 - Me gusta la ciencia y en general compartir conocimiento, por esto soy voluntaria 🔭 en [Clubes de Ciencias Mx](https://www.clubesdeciencia.mx/)
 :dart: 
 
