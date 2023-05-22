@@ -1,6 +1,6 @@
 ### ¡Hey! ¿Todo cool? 👋👋
 
-:princess: Soy Andrea Monserrat✨ 
+:princess: Soy Andrea Monserrat Arredondo✨ 
 
 
 
@@ -17,8 +17,8 @@ La mayor parte del tiempo uso Python, I :heart: :snake:.
 :dart: 
 
 - Por último les comparto mi CV:
---   [English](https://drive.google.com/file/d/1xLx2Jka-k0lYNAdrBziwR_tCRnZ0lLj3/view?usp=sharing)
---  [Español](https://drive.google.com/file/d/1GxbXZBlrjMmPT4y3hzX4EBjL-ExLjIuH/view?usp=sharing)
+--   [English](https://docs.google.com/document/d/1oNyQ_icqRSmodum2ymtn-icZgKb0dPRM4EJtYph5Bms/edit?usp=sharing)
+--  [Español](https://docs.google.com/document/d/1xDswaKIKdOEzIQtuAqYDYq-NLfJhzfsiQcmIh1v-3D4/edit?usp=sharing)
 
 - 😄 Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
 - ⚡ Fun fact: Animal fav, gatos. :cat: :cat:
@@ -29,7 +29,6 @@ La mayor parte del tiempo uso Python, I :heart: :snake:.
 
 
 -:email: __andrea.monserrat.ar@gmail.com__  📫
--:email: __andrea.monserrat@ibm.com__  📫
 
 
 <!--
