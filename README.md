@@ -1,24 +1,17 @@
 ### ¡Hey! ¿Todo cool? 👋👋
 
-:princess: Soy Andrea Monserrat Arredondo✨ 
-
-
+:princess: Andrea Arredondo aquí✨ https://linktr.ee/andreamonserrat
 
 
 Estudié Actuaría :chart_with_upwards_trend: y en el camino decidí ser Data Scientist :information_desk_person: 
-
-La mayor parte del tiempo uso Python, I :heart: :snake:.
-
-
-- Me considero una entusiasta de la Inteligencia Artificial. :robot: Lo que más me genera curiosidad son los posibles cambios en nuestra forma de ver y hacer las cosas en el mundo, me gusta leer del tema, estar actualizada y compartir puntos de vista.
+Python, I :heart: :snake:.
 
 
-- Me gusta la ciencia y en general compartir conocimiento, por esto soy voluntaria 🔭 en [Clubes de Ciencias Mx](https://www.clubesdeciencia.mx/)
+- Entusiasta de la IA & aprendiz eterna de DS. :robot:
+- Voluntaria (cómite de Relaciones Institucionales, staff, coordinadora, mentora, etc) 🔭 en [Clubes de Ciencias Mx](https://www.clubesdeciencia.mx/)
 :dart: 
 
-- Por último les comparto mi CV:
---   [English](https://docs.google.com/document/d/1oNyQ_icqRSmodum2ymtn-icZgKb0dPRM4EJtYph5Bms/edit?usp=sharing)
---  [Español](https://docs.google.com/document/d/1xDswaKIKdOEzIQtuAqYDYq-NLfJhzfsiQcmIh1v-3D4/edit?usp=sharing)
+CV:  [English](https://docs.google.com/document/d/1oNyQ_icqRSmodum2ymtn-icZgKb0dPRM4EJtYph5Bms/edit?usp=sharing)
 
 - 😄 Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
 - ⚡ Fun fact: Animal fav, gatos. :cat: :cat:
