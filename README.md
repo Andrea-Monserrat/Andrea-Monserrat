@@ -14,11 +14,10 @@ Python, I :heart: :snake:.
 CV:  [English](https://docs.google.com/document/d/1oNyQ_icqRSmodum2ymtn-icZgKb0dPRM4EJtYph5Bms/edit?usp=sharing)
 
 - 😄 Twitter ¿nos seguimos? [@AndreMonserratt](https://twitter.com/AndreMonserratt) 
-- ⚡ Fun fact: Animal fav, gatos. :cat: :cat:
-- ⚡ Fun fact_2: Serie fav es Mr Robot
+- ⚡ Fun fact: Cats are so cool!
 
 
-- :black_nib: en ratos libres escribo sobre el impacto de las redes sociales y en general la red en la vida de una centennial (o sea yo) [Medium](https://medium.com/@andrea.monserrat.ar/con-tal-de-mantenerse-quieto-i-b1f078c9f61d?source=friends_link&sk=35cc9990e543d2c94b2eb0fdbfa830f0)
+- :black_nib: [Medium](https://medium.com/@andrea.monserrat.ar/con-tal-de-mantenerse-quieto-i-b1f078c9f61d?source=friends_link&sk=35cc9990e543d2c94b2eb0fdbfa830f0)
 
 
 -:email: __andrea.monserrat.ar@gmail.com__  📫
